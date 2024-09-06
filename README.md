@@ -116,7 +116,7 @@ print(y_prednew)
 
 7.Tune hyperparameters - Experiment with different learning rates and regularization techniques
 
-8.Deploy your model - Use trained model to make predictions on new data in a real-world application.
+8.Deploy your model - Use trained model to make predictions on new data in a real-world application
 
 
 

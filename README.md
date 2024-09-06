@@ -132,7 +132,7 @@ print(y_prednew)
 ```
 
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
+
 ![Screenshot 2024-09-06 114145](https://github.com/user-attachments/assets/1c86c512-23a1-4012-b340-25bf6701a41a)
 ![Screenshot 2024-09-06 114242](https://github.com/user-attachments/assets/8d5c21a5-e010-451c-a5a2-87e3709ce64c)
 ![Screenshot 2024-09-06 114228](https://github.com/user-attachments/assets/ec835081-6666-46e2-ac90-9a1f8fb49508)
